@@ -1,9 +1,9 @@
 import React from 'react';
 
 const metricsData = [
-    { title: "Avg. Score", value: "81.29", change: "+3.2%", trend: "up" },
-    { title: "Top Subject", value: "Computer Science", change: "7.14%", trend: "down" },
-    { title: "Attendance", value: "94%", change: "+1.5%", trend: "up" },
+    { title: "Avg. Score", value: "83.14", change: "+3.2%", trend: "up" },
+    { title: "Top Subject", value: "Physics", change: "+7.06%", trend: "up" },
+    { title: "Attendance", value: "94%", change: "-0.5%", trend: "down" },
     { title: "Improvement", value: "18%", change: "+6.4%", trend: "up" }
 ];
 

@@ -13,12 +13,12 @@ export const studentProgress = [
 ];
 
 export const subjectAverages = [
-    { subject: 'Mathematics', avg: 82 },
-    { subject: 'English Literature', avg: 76 },
-    { subject: 'Physics', avg: 89 },
+    { subject: 'Mathematics', avg: 72 },
+    { subject: 'English Literature', avg: 86 },
+    { subject: 'Physics', avg: 92 },
     { subject: 'Chemistry', avg: 84 },
     { subject: 'Biology', avg: 79 },
-    { subject: 'History', avg: 68 },
+    { subject: 'History', avg: 78 },
     { subject: 'Computer Science', avg: 91 },
 ];
 

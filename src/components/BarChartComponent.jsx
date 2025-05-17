@@ -4,7 +4,7 @@ import { subjectAverages } from '../data';
 
 const BarChartComponent = () => {
     return (
-        <div className="bg-white p-4 rounded-xl">
+        <div className="bg-white p-2">
             <h2 className="text-lg font-bold text-gray-800 mb-2">📊 Subject Averages</h2>
             <p className="text-sm text-gray-500 mb-4">Performance comparison across subjects</p>
             <div className="h-[300px]">

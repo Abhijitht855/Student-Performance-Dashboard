@@ -4,7 +4,7 @@ import { studentProgress } from '../data';
 
 const LineChartComponent = () => {
     return (
-        <div className="bg-white p-4">
+        <div className="bg-white p-2">
             <h2 className="text-lg font-bold text-gray-800 mb-2">📈 Progress Over Time</h2>
             <p className="text-sm text-gray-500 mb-4">Student performance trend over key dates</p>
 
