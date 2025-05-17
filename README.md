@@ -15,7 +15,7 @@ A responsive web dashboard to visualize academic performance data including aver
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/your-username/student-performance-dashboard.git
+git clone https://github.com/Abhijitht855/Student-Performance-Dashboard.git
 cd student-dashboard
 npm install
 ```
